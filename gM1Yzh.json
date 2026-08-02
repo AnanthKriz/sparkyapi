@@ -1,0 +1,14 @@
+{
+  "clientId": "1492846237374742618",
+  "guildId": "1355041830143524986",
+  "prefix": "?",
+  "allowedRoles": [
+    "1492857542060281947"
+  ],
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "renox"
+  }
+}
